@@ -1,0 +1,22 @@
+{
+  "name": "vagaszero",
+  "version": "1.0.0",
+  "description": "\"Verificação atualizada de vagas na rede\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiooliveirac/vagaszero.git"
+  },
+  "keywords": [
+    "\"SAMU\""
+  ],
+  "author": "\"Caio Oliveira\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiooliveirac/vagaszero/issues"
+  },
+  "homepage": "https://github.com/caiooliveirac/vagaszero#readme"
+}
